@@ -1,0 +1,21 @@
+{
+    "name": "datamosh-theme",
+    "displayName": "Datamosh Theme",
+    "description": "Xcode + Monokai",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Datamosh Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Datamosh Theme-color-theme.json"
+            }
+        ]
+    }
+}
